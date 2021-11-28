@@ -1,5 +1,5 @@
 <h1 align="center">ecc-explorer</h1>
-<p>ecc explorer Explorer for inspecting and analyzing EVM Chains.</p>
+<p>ecc explorer for inspecting and analyzing EVM Chains.</p>
 
 
 ecc explorer provides a comprehensive, easy-to-use interface for users to view, confirm, and inspect transactions on EVM (Ethereum Virtual Machine) blockchains. This includes the POA Network, xDai Chain, Ethereum Classic and other **Ethereum testnets, private networks and sidechains**.
